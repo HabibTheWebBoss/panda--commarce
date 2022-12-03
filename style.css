@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital@0;1&display=swap');
+
+body{
+    font-family: 'Arimo', sans-serif;
+}
+.container{
+    margin-bottom: 90px;
+}
+.bg-color{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.btn-all{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    font-family: 'Arimo', sans-serif;
+}
